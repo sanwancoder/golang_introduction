@@ -13,8 +13,6 @@ func main() {
 	fmt.Println(gcd(36,48))
 	fmt.Println(gcd(10,5))
 	fmt.Println(gcd(10,7))
-
-
 }
 
 //费布拉奇数列
